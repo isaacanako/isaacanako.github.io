@@ -441,7 +441,7 @@
         </section> -->
         
         
-        <!-- <section class="brands-area section_gap_bottom">
+        <section class="brands-area section_gap_bottom">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
@@ -573,7 +573,7 @@
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>
         
         <footer class="footer_area">
             <div class="container">
